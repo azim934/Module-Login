@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magefan (support@magefan.com). All rights reserved.
+ * lease visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
+ *
+ * Glory to Ukraine! Glory to the heroes!
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <mfloginascustomer>
+            <general>
+                <enabled>0</enabled>
+                <disable_page_cache>0</disable_page_cache>
+                <keep_guest_cart>0</keep_guest_cart>
+                <store_view_login>0</store_view_login>
+            </general>
+        </mfloginascustomer>
+    </default>
+</config>
